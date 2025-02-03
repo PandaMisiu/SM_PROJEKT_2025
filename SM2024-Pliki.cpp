@@ -1,12 +1,12 @@
 #include "SM2024-Pliki.h"
 
+#define szerokosc 640
+#define wysokosc 400
+
 #include <stdio.h>
 #include <math.h>
 #include <fstream>
 #include <SDL2/SDL.h>
-
-#define szerokosc 640
-#define wysokosc 400
 
 #include "SM2024-Funkcje.h"
 #include "SM2024-Zmienne.h"
