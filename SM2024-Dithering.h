@@ -1,0 +1,6 @@
+#ifndef SM2024_DITHERING_H_INCLUDED
+#define SM2024_DITHERING_H_INCLUDED
+
+void zaktualizujTabliceBayera2();
+
+#endif // SM2024_DITHERING_H_INCLUDED
