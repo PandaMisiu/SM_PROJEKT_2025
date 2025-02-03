@@ -3426,7 +3426,7 @@
 	"SM2024-Funkcje.h"
 	<iostream>
 
-1738613607 source:c:\users\marci\desktop\sm2024-projekt\sm2024-funkcje.cpp
+1738613745 source:c:\users\marci\desktop\sm2024-projekt\sm2024-funkcje.cpp
 	"SM2024-Funkcje.h"
 	<stdio.h>
 	<math.h>
@@ -3440,7 +3440,7 @@
 	"SM2024-Filtry.h"
 	"SM2024-Kompresja.h"
 
-1738585313 c:\users\marci\desktop\sm2024-projekt\sm2024-funkcje.h
+1738614242 c:\users\marci\desktop\sm2024-projekt\sm2024-funkcje.h
 	<SDL2/SDL.h>
 	"SM2024-Kompresja.h"
 
@@ -3847,9 +3847,11 @@
 1738585313 c:\users\marci\desktop\sm2024-projekt\sm2024-mediancut.h
 	<SDL2/SDL.h>
 
-1738613087 c:\users\marci\desktop\sm2024-projekt\sm2024-pliki.h
+1738614474 c:\users\marci\desktop\sm2024-projekt\sm2024-pliki.h
+	"SM2024-Zmienne.h"
 	<iostream>
 	<SDL2/SDL.h>
+	<vector>
 
 1738585313 source:c:\users\marci\desktop\sm2024-projekt\sm2024-mediancut.cpp
 	"SM2024-MedianCut.h"

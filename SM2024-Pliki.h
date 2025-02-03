@@ -5,8 +5,11 @@
 #define szerokosc 640
 #define wysokosc 400
 
+#include "SM2024-Zmienne.h"
+
 #include <iostream>
 #include <SDL2/SDL.h>
+#include <vector>
 
 
 std::ofstream zapiszDoPliku(Uint16 szerokoscObrazka, Uint16 wysokoscObrazka, Uint8 tryb, Uint8 dithering, Uint8 kompresja);
