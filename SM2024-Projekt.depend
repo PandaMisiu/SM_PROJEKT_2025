@@ -3877,31 +3877,31 @@
 	"SM2024-Konwersje.h"
 	"SM2024-Dithering.h"
 
-1738613681 source:c:\users\marci\desktop\sm2024-projekt\sm2024-pliki.cpp
+1738616355 source:c:\users\marci\desktop\sm2024-projekt\sm2024-pliki.cpp
 	"SM2024-Pliki.h"
-	<stdio.h>
-	<math.h>
-	<fstream>
 	<SDL2/SDL.h>
-	"SM2024-Funkcje.h"
-	"SM2024-Zmienne.h"
-	"SM2024-Konwersje.h"
+	<math.h>
+	<stdio.h>
+	<fstream>
 	"SM2024-Dithering.h"
+	"SM2024-Funkcje.h"
 	"SM2024-Kompresja.h"
-
-1738613397 source:c:\users\marci\desktop\sm2024-projekt\sm2024-projekt.cpp
-	"SM2024-Zmienne.h"
-	"SM2024-Funkcje.h"
 	"SM2024-Konwersje.h"
-	"SM2024-Dithering.h"
-	"SM2024-Pliki.h"
-	<exception>
-	<string.h>
-	<iostream>
+	"SM2024-Zmienne.h"
+
+1738616355 source:c:\users\marci\desktop\sm2024-projekt\sm2024-projekt.cpp
+	<SDL2/SDL.h>
+	<math.h>
 	<stdio.h>
 	<stdlib.h>
-	<math.h>
-	<SDL2/SDL.h>
+	<string.h>
+	<exception>
+	<iostream>
+	"SM2024-Dithering.h"
+	"SM2024-Funkcje.h"
+	"SM2024-Konwersje.h"
+	"SM2024-Pliki.h"
+	"SM2024-Zmienne.h"
 
 1738613405 source:c:\users\marci\desktop\sm2024-projekt\sm2024-zmienne.cpp
 	"SM2024-Zmienne.h"
@@ -3936,7 +3936,8 @@
 	"SM2024-Dithering.h"
 	"SM2024-Filtry.h"
 
-1738585313 c:\users\marci\desktop\sm2024-projekt\sm2024-filtry.h
+1738616377 c:\users\marci\desktop\sm2024-projekt\sm2024-filtry.h
+	<vector>
 
 1738613390 source:c:\users\marci\desktop\sm2024-projekt\sm2024-filtry.cpp
 	<stdio.h>
